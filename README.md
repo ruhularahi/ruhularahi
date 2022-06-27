@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruhulamin
 - 👀 I’m interested in travelling, playing soccer
-- 🌱 I’m currently learning data science to accomplished a cherished goal of mine
+- 🌱 I’m currently learning data science to accomplish a cherished goal of mine
 - 💞️ I’m looking to collaborate on python data science projects
 - 📫 How to reach me linkedin.com/in/ruhularahi
 
