@@ -1,7 +1,7 @@
-[![MasterHead](https://www.creatopy.com/blog/wp-content/uploads/2016/06/images-for-banner-ads.png)](https://ruhularahi.io)
+[![MasterHead](https://images.unsplash.com/photo-1549490316-686f9b5d359f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)](https://ruhularahi.io)
 <h1 align="center">Hi 👋, I'm Ruhul Amin</h1>
 <h3 align="center">Data Science Enthusiasts</h3>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/Es25kIjW4AgvtrN?format=jpg&name=medium">
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhularahi&label=Profile%20views&color=0e75b6&style=flat" alt="ruhularahi" /> </p>
 
