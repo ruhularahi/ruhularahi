@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- ![image](https://user-images.githubusercontent.com/108262435/231363763-a9c6ad73-0012-4fb3-bc81-55a1ee57c46d.png) [My Portfolio](https://github.com/ruhularahi/Portfolio_Projects)
+
 - 🌱 I’m currently learning **Cloud Computing - Azure, AWS**
 
 - 💬 Ask me about **Data Science Techniques**
