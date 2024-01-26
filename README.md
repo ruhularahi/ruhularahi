@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science Techniques**
 
-- 📫 How to reach me **ruhulaminrahi@gmail.com**
+- 📫 How to reach me **ruhul.amin.ca@outlook.com**
 
 - ⚡ Fun fact **I am a good listener**
 
