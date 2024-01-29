@@ -1,6 +1,13 @@
-<img align="center" alt="Coding" height= "200" width="950" src="https://images.unsplash.com/photo-1622737133809-d95047b9e673?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80">
-<h1 align="right">Ruhul Amin</h1>
-<h3 align="center">Data Science Enthusiasts</h3>
+<h2 align="left">Ruhul Amin</h2>
+Quantitative Analyst focused on predictive analytics in Finance and Retail industry.
+<h3 align="left">About Me</h3>
+
+Inherently inquisitive and perceptive, I thrive on embracing new challenges and continuously pursuing opportunities for learning and knowledge exchange.
+
+Proficient in problem-solving with a data-centric approach, I utilize data to enhance user experiences, whether tackling issues in personal or professional settings.
+
+My current role encompasses advanced data analysis, predictive modeling, and descriptive analytics, focusing on crucial business metrics. Additionally, I find fulfillment in mentoring and sharing insights with colleagues and fellow industry professionals, contributing to a collaborative knowledge-sharing environment.
+
 <img align="right" alt="Coding" width="300" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhularahi&label=Profile%20views&color=0e75b6&style=flat" alt="ruhularahi" /> </p>
