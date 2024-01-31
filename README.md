@@ -1,6 +1,6 @@
-<h2 align="left">Ruhul Amin</h2>
-Quantitative Analyst focused on predictive analytics in Finance and Retail industry.
-<h3 align="left">About Me</h3>
+<h3 align="left">Ruhul Amin</h3>
+Quantitative Analyst focused on predictive analytics in Retail and Financial industry. Have proficiency in data analytics tools like SQL, Python, Power BI & Tableau.
+<h4 align="left">About Me</h4>
 
 Inherently inquisitive and perceptive, I thrive on embracing new challenges and continuously pursuing opportunities for learning and knowledge exchange.
 
