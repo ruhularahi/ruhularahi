@@ -1,5 +1,5 @@
 <h3 align="left">Ruhul Amin</h3>
-Quantitative Analyst focused on predictive analytics in Retail and Financial industry. Have proficiency in data analytics tools like SQL, Python, Power BI & Tableau.
+Data and Business Intelligence Analyst focused on diagonostic and predictive analytics in Retail and Service industry. Have proficiency in data analytics tools like SQL, Python, Power BI & Tableau.
 <h4 align="left">About Me</h4>
 
 Inherently inquisitive and perceptive, I thrive on embracing new challenges and continuously pursuing opportunities for learning and knowledge exchange.
@@ -14,15 +14,17 @@ My current role encompasses advanced data analysis, predictive modeling, and des
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ![image](https://user-images.githubusercontent.com/108262435/231363763-a9c6ad73-0012-4fb3-bc81-55a1ee57c46d.png) [My Portfolio](https://github.com/ruhularahi/Portfolio_Projects)
+Below is 
+[My Work Portfolio](https://github.com/ruhularahi/Portfolio_Projects) ![image](https://user-images.githubusercontent.com/108262435/231363763-a9c6ad73-0012-4fb3-bc81-55a1ee57c46d.png) <br>
 
-- 🌱 I’m currently learning **Cloud Computing - Azure, AWS**
+- [Olympic Games Analysis](https://github.com/ruhularahi/Portfolio_Projects/tree/main/Olympic%20Games%20Analysis)
+- [World Wide Importers](https://github.com/ruhularahi/Portfolio_Projects/tree/main/World%20Wide%20Importers)
+- [Malaria Parasite Detection](https://olympus.mygreatlearning.com/eportfolio)
 
-- 💬 Ask me about **Data Science Techniques**
-
-- 📫 How to reach me **ruhul.amin.ca@outlook.com**
-
-- ⚡ Fun fact **I am a good listener**
+🌱 I’m currently learning **Cloud Computing - Azure, AWS** <br>
+💬 Ask me about **Data Analytics Techniques**   <br>
+📫 How to reach me **ruhul.amin.ca@outlook.com** <br>
+⚡ Fun fact **I am a good listener**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
