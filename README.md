@@ -21,6 +21,7 @@ Below is
 - [World Wide Importers](https://github.com/ruhularahi/Portfolio_Projects/tree/main/World%20Wide%20Importers)
 - [Bank Customer Segmentation](https://github.com/ruhularahi/Portfolio_Projects/tree/main/Bank%20Customer%20Segmentation)
 - [Malaria Parasite Detection](https://olympus.mygreatlearning.com/eportfolio)
+- [Tableau Public Dashboards](https://public.tableau.com/app/profile/ruhul.amin2756/vizzes)
 
 🌱 I’m currently learning **Cloud Computing - Azure, AWS** <br>
 💬 Ask me about **Data Analytics Techniques**   <br>
